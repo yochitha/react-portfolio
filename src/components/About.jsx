@@ -46,7 +46,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-6xl leading-[30px]'
       >
-        I'm a Full Stack Developer based in India, currently working for a startup as Senior Application Services Engineer.
+        I'm a Full Stack Developer based in India, currently working for a startup as Lead Application Services Engineer.
         I build Web Application, Mobile Application, AI/CV algorithms and Game AI Engine. I enjoy designing and building complex applicaitons with cutting-edge technologies as I specialize in Angular, React, C# .Net Core, Entity Framework, SQL & Azure.
         Alongside technical skills, I have been leading a team of developers in end to end software development following agile methodologies. The immense curiosity to learn and explore things around has given a great sense of joy where I continuosly immerse myself in state of the art of Artificial Intelligence and Computer Vision in combination with Game AI.
         I am adept at handling multiple projects in a fast paced environment with no compromise to quality. Excellent at time management, organization, problem solving and meeting deadlines.
